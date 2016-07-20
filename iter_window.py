@@ -1,4 +1,4 @@
-# iter_window.py, a sliding window iterator with padding.
+# iter_window.py, a sliding window python iterator with padding.
 # License: Simplified BSD.
 # Copyright (C) 2012 Daniel Pena 
 # All rights reserved.
